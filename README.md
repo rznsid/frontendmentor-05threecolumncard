@@ -5,7 +5,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -25,11 +25,11 @@ Users should be able to:
 
 #### Desktop
 
-![](./screenshot_desktop.jpg)
+![](./screenshot_desktop.png)
 
 #### Mobile
 
-![](./screenshot_mobile.jpg)
+![](./screenshot_mobile.png)
 
 ## My process
 
